@@ -1,5 +1,5 @@
 # Pomodoro UI
-![Pomodoro App By Ebraj, Built on React](Design.png)
+![Pomodoro App Built on React - Tomas Laus](Design.png)
 
 
 ## 01. What is Pomodoro Timer?
