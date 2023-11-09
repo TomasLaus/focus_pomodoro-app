@@ -15,6 +15,6 @@ Features.<br>
 3. Components and Props.
 
 ## 03. From where did you get the Inspiration.<br>
-See it Live : https://pomodoro-astroud.vercel.app/
+See it Live : https://focus-pomodoroapp.vercel.app/
 <br>
 Github Repo : https://github.com/tomaslaus/focus_pomodoro-app
