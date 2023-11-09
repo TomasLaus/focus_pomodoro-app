@@ -14,7 +14,7 @@ Features.<br>
 2. Forms.
 3. Components and Props.
 
-## 03. From where did you get the Inspiration.<br>
+<br>
 See it Live : https://focus-pomodoroapp.vercel.app/
 <br>
 Github Repo : https://github.com/tomaslaus/focus_pomodoro-app
