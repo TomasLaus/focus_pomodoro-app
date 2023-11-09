@@ -17,4 +17,4 @@ Features.<br>
 ## 03. From where did you get the Inspiration.<br>
 See it Live : https://pomodoro-astroud.vercel.app/
 <br>
-Github Repo : https://github.com/astroud/pomodoro-react-app
+Github Repo : https://github.com/tomaslaus/focus_pomodoro-app
